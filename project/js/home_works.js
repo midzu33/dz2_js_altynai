@@ -79,3 +79,5 @@ resetButton.onclick = () => {
     seconds.innerHTML = secondsCount
 }
 
+
+

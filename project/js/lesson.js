@@ -159,7 +159,7 @@ btnNext.onclick = () => {
     cardFetcher(count)
 
 }
-//DZ3
+//DZ6
 btnPrev.onclick = () => {
     count--
     if (count < 1){
